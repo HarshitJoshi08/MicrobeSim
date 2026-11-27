@@ -1,5 +1,5 @@
 # Runtime
-numpy>=1.26
+numpy>=2.5.5
 scipy>=1.11
 pandas>=2.1
 pydantic>=2.5
